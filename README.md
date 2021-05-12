@@ -7,7 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediat-yellow)
 ![TypeScript](https://img.shields.io/badge/React-Intermediate-lightgrey)
 
-Computer Science student at [University of Bologna](https://www.unibo.it/en). Full-stack developer with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 I’m currently studying **Information technology** at IET, Dr. RLAU
 - 🌱 I’m currently learning **React** 
