@@ -7,9 +7,8 @@
 ![TypeScript](https://img.shields.io/badge/React-Intermediate-lightgrey)
 
 
-- 🔭 I’m final year **Information technology** student,
 - 🌱 I’m learning **MERN stack** ,
-- ⚙️ Have tried my hands on: `.html`,`.css`,`.js`,`react`,`next js`
+- ⚙️ Have tried my hands on: `.html`,`.css`,`.js`,`react`,`next js`,
 - 👯 I’m looking to collaborate in **Open Source** and/or **WEB DEVELOPMENT** projects.
 - 💬 I'm mostly active within the **REACT**, **WEB** and **MOBIL** communities
 
