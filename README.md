@@ -1,23 +1,28 @@
+# Hi there, I'm Ayushi Verma! 👋
 
-# Hello, I'm Ayushi Verma 👋
+## 🌱 About Me
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![TypeScript](https://img.shields.io/badge/React-Intermediate-lightgrey)
+I'm Ayushi Verma, a dedicated Frontend Engineer committed to crafting seamless and delightful user experiences. My journey in web development has equipped me with expertise in HTML, CSS, and JavaScript, and I'm well-versed in building dynamic applications with React and Next.js.
 
+In my current role as a Frontend Engineer, I tackle challenges with a problem-solving mindset and an eye for detail. I take pride in writing clean, efficient, and scalable code to deliver robust solutions. Whether it's translating design concepts into code or optimizing performance, I'm passionate about every aspect of the development process.
 
-- 🌱 I’m working as a **Frontend engineer** ,
-- ⚙️ Have tried my hands on: `.html`,`.css`,`.js`,`react`,`next js`,
-- 👯 I’m looking to collaborate in **Open Source** and/or **WEB DEVELOPMENT** projects.
-- 💬 I'm mostly active within the **REACT**, **WEB** and **MOBIL** communities
+🚀 Here's a glimpse of what defines me:
 
-### 📬 Get in Touch
+- **Technological Proficiency:** Proficient in `.html`, `.css`, `.js`, with a focus on React and Next.js.
+- **Collaborative Spirit:** Enthusiastic about collaborating on Open Source and Web Development projects.
+- **Continuous Learner:** Keen on staying abreast of industry trends and embracing new technologies.
 
-https://skyline.github.com/Ayushi20-19/2022
-- PeerList [https://peerlist.io/ayushiverma]
-- GitHub: [https://github.com/Ayushi20-19]
-- LinkedIn: [https://www.linkedin.com/in/ayushi20-19/]
-- E-mail: [ayushiverma.av1828@gmail.com]
+Outside of coding, you'll find me engaging in discussions within the vibrant React, Web, and Mobile communities. Let's connect and explore the exciting world of web development together!
+
+Looking forward to bringing innovative ideas to life and making a positive impact in the tech space. 😊
 
 
+## 📬 Get in Touch
+
+- Portfolio: [Explore My Work](https://skyline.github.com/Ayushi20-19/2022)
+- PeerList: [Connect on PeerList](https://peerlist.io/ayushiverma)
+- GitHub: [My GitHub Profile](https://github.com/Ayushi20-19)
+- LinkedIn: [Let's Connect on LinkedIn](https://www.linkedin.com/in/ayushi20-19/)
+- E-mail: [Drop me an Email](mailto:ayushiverma.av1828@gmail.com)
+
+Feel free to reach out for collaboration, opportunities, or just a friendly chat. Looking forward to connecting with fellow developers! 😊
