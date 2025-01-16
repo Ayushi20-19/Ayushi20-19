@@ -19,7 +19,6 @@ Looking forward to bringing innovative ideas to life and making a positive impac
 
 ## 📬 Get in Touch
 
-- Portfolio: [Explore My Work](https://skyline.github.com/Ayushi20-19/2022)
 - PeerList: [Connect on PeerList](https://peerlist.io/ayushiverma)
 - GitHub: [My GitHub Profile](https://github.com/Ayushi20-19)
 - LinkedIn: [Let's Connect on LinkedIn](https://www.linkedin.com/in/ayushi20-19/)
